@@ -6,8 +6,6 @@
 
         assert.equal(isWeekday('Saturday'), false);
         assert.equal(isWeekday('Monday'), true);
-
-    
     });
 
 });
