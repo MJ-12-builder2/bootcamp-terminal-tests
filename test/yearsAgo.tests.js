@@ -1,3 +1,6 @@
+        let assert = require("assert");
+        let yearsAgo = require('../yearsAgo')
+
 describe('The yearsAgo function' , function(){
     it('should return year.getFullYear() - years' , function(){
 

@@ -15,5 +15,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJ-12-builder2/bootcamp-terminal-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MJ-12-builder2/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/MJ-12-builder2/bootcamp-terminal-tests#readme"
 }

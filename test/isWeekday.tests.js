@@ -1,4 +1,7 @@
-describe('The isWeekday function' , function(){
+    let assert = require("assert");
+    let isWeekday = require('../isWeekDay')
+
+    describe('The isWeekday function' , function(){
     it('should return "Weekday" that startsWith Mon,' , function(){
 
         assert.equal(isWeekday('Saturday'), false);

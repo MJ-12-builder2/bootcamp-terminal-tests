@@ -1,4 +1,6 @@
-describe('The countAllPaarl function' , function(){
+    var countAllPaarl = require('../countAllPaarl');
+
+    describe('The countAllPaarl function' , function(){
 
     it('should return arr', function(){
 
