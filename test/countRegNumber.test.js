@@ -1,4 +1,5 @@
-    var countRegNumber = require('../countRegNumber')
+    let assert = require("assert");
+    let countRegNumber = require('../countRegNumber')
 
     describe('The countRegNumber function' , function(){
 
