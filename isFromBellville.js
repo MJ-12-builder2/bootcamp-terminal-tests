@@ -1,3 +1,3 @@
-module.imports = function isFromBellive(regNo) {
-    return regNo.startsWith('CY');
+module.imports = function isFromBellville(regNumber) {
+    return regNumber.startsWith('CY');
 }
